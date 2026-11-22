@@ -2,7 +2,7 @@
 ### Full Stack Developer | Lahore, Pakistan
 
 - Contact: contact.maiznadeem@gmail.com
-- Portfolio: [v1.portfolio.himaiz.com](https://v1.portfolio.himaiz.com)
+- Portfolio: [portfolio.himaiz.com](https://portfolio.himaiz.com)
 
 I’m interested in cloud computing, machine learning, and building AI-driven applications at scale. I don't like coding 24/7 tho.
 
